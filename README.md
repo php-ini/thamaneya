@@ -44,7 +44,7 @@ A comprehensive three-part system for storing and presenting show episodes (podc
 
 1. **Clone and Setup**
 ```bash
-git clone <repository-url>
+git clone https://github.com/php-ini/thamaneya.git
 cd thamaneya
 ```
 
