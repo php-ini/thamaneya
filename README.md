@@ -40,6 +40,20 @@ A comprehensive three-part system for storing and presenting show episodes (podc
 - Docker and Docker Compose
 - Node.js 18+ and npm
 
+## Screenshots
+
+### Discovery page:
+[![name](./discovery-image.png)](#)
+
+### CMS page:
+[![name](./cms-image.png)](#)
+
+### Show edit page:
+[![name](./edit-image.png)](#)
+
+### Show page:
+[![name](./show-image.png)](#)
+
 ### Installation
 
 1. **Clone and Setup**
@@ -236,3 +250,9 @@ MIT License - see LICENSE file for details
 ## 🆘 Support
 
 For questions or issues, please create an issue in the repository. 
+
+---
+
+## Copyright
+
+© 2024 Mahmoud Abdelsattar. All rights reserved. 
